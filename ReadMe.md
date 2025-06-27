@@ -5,7 +5,7 @@ Este projeto explora diferentes algoritmos de classificação em um conjunto de 
 ---
 
 ## 📁 Estrutura do Projeto
-'''
+```
 📦 Anonimus_Classification/
 ├── model_logistic.py
 ├── model_random_forest.py
@@ -15,7 +15,7 @@ Este projeto explora diferentes algoritmos de classificação em um conjunto de 
 ├── results_random_forest/ # Resultados do Random Forest
 ├── results_svc/ # Resultados do SVC
 └── README.md
-'''
+```
 
 ---
 
